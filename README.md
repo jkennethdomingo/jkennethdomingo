@@ -8,6 +8,7 @@ Welcome to my GitHub profile! As a passionate 3rd-year student at Mindoro State 
 - **Year**: 3rd Year
 
 ## 💻 Technical Skills
+- **C# and .NET Framework**: My journey in programming began with C#. I have a basic understanding of C# and some experience with the .NET Framework. While my focus has shifted, these skills are foundational to my development as a programmer.
 - **Web Development Basics**: Proficient in foundational aspects of web development.
 - **CodeIgniter 4**: Experienced in using CI4 for creating robust REST APIs, leveraging its powerful features for server-side development.
 - **Vue.js**: Skilled in Vue 3, especially using the Composition API and Script Setup for building reactive and efficient user interfaces.
