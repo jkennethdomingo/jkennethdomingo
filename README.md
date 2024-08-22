@@ -1,11 +1,11 @@
 # Hello👋, I'm John Kenneth Nicko M. Domingo!
 
-Welcome to my GitHub profile! As a passionate 3rd-year student at Mindoro State University studying Bachelor of Science in Information Technology, I am excited to share my journey and projects in the field of IT. This account showcases my student projects and collaborative works.
+Welcome to my GitHub profile! As a passionate 4th-year student at Mindoro State University studying Bachelor of Science in Information Technology, I am excited to share my journey and projects in the field of IT. This account showcases my student projects and collaborative works.
 
 ## 🎓 Education
 - **University**: Mindoro State University
 - **Program**: Bachelor of Science in Information Technology
-- **Year**: 3rd Year
+- **Year**: 4th Year
 
 ## 💻 Technical Skills
 - **C# and .NET Framework**: My journey in programming began with C#. I have a basic understanding of C# and some experience with the .NET Framework. While my focus has shifted, these skills are foundational to my development as a programmer.
@@ -31,7 +31,7 @@ Welcome to my GitHub profile! As a passionate 3rd-year student at Mindoro State 
 I'm open to collaborations, project discussions, or any queries related to my field of study.
 
 - **Email**: johnkennethnickodomingo@gmail.com
-- **LinkedIn**: COMING SOON...
+- **LinkedIn**: https://www.linkedin.com/in/john-kenneth-nicko-domingo-395864271/
 
 ---
 
