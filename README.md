@@ -48,13 +48,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    ![](https://github-readme-stats.vercel.app/api?username=jkennethdomingo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-  </div>
-  <div>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=jkennethdomingo&theme=tokyonight&hide_border=false)<br/>
-  </div>
-</div>
-
+![](https://github-readme-stats.vercel.app/api?username=jkennethdomingo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jkennethdomingo&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jkennethdomingo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
